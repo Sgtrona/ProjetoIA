@@ -10,6 +10,6 @@ Criar uma versão em Python do algoritmo de Min/Max com a poda alfa beta
 
 Integrantes:
 
--Elvyson
+-Elvison victor
 -Luiz Felipe
 -Leandro
